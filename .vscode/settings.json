@@ -1,5 +1,6 @@
 {
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
-    }
+    },
+    "nuxt.isNuxtApp": false
 }
